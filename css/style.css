@@ -1,0 +1,13 @@
+body {
+  background: none; }
+
+h1 {
+  color: #666; }
+
+p {
+  margin: 0; }
+
+.box-item {
+  border: 0; }
+  .box-item:before {
+    color: #ccc; }
